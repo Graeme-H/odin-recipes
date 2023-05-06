@@ -1,11 +1,16 @@
 div {background-color: black;}
 
+button {color: darkgoldenrod;
+     font: 1em sans-serif;
+      font-size: 18px;
+    background-color: rgb(26, 66, 139); }
 .para {font-size: 28px;
 width: 600px;
 padding: 50px;
 text-align: center;}
 
-* {background-color: black;}
+* {background-color: black;
+color: blanchedalmond;}
 
 p {color: brown;
 font-size: 18px;}
@@ -16,17 +21,13 @@ a {color: cyan;
 background-color: aqua;
 }
 
-h1 {color: violet; 
+h1 { 
     text-align: center; 
-    font-size: 38px;
+    font-size: 68px;
 }
 
-h2 {color: hotpink;}
-
-
-
 .alert {color:red;
-background-color: aliceblue;
+background-color: black;
 }
 
 .prep {width: 200px;
@@ -45,3 +46,22 @@ div p {font-size:21px;
 }
 
 strong {background-color: black}
+
+h3 {
+    display: inline-flex;
+   }
+
+#title {color: blanchedalmond;
+        text-align: center;
+        font-size: 45px;
+}
+
+li {color: aliceblue;
+    padding: 8px;
+    font-size: 19px;
+    
+    width: 500px;
+  
+}
+
+
