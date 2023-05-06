@@ -1,1 +1,1 @@
-Set up recipe page with HTML. Click on a link to be brought to the page and enjoy!
+Set up recipe pages with main menu using HTML & Css. Click on a link to be brought to the page and enjoy!
