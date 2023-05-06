@@ -1,17 +1,34 @@
-div {background-color: darkorange;}
+div {background-color: yellow;}
+
+.para {font-size: 25px;}
 
 p {color: brown;}
 
 ul {color: green;}
 
 a {color: cyan;
-background-color: aqua;}
+background-color: aqua;
+}
 
-h1 {color: violet; text-align: center; font-size: 38px;}
+h1 {color: violet; 
+    text-align: center; 
+    font-size: 38px;
+}
 
 h2 {color: hotpink;}
 
 * {background-color: black;}
 
 .alert {color:red;
-background-color: aliceblue;}
+background-color: aliceblue;
+}
+
+.prep {width: 200px;
+     height: 150px;
+    }
+
+
+div p {font-size:25;
+    background-color: yellow;
+    color: green;
+}
